@@ -1,0 +1,11 @@
+# Local preferences and generated files
+偏好设置.xml
+偏好设置.xml.new
+*.exe
+*.pdb
+tests/previews/
+__pycache__/
+*.pyc
+.vs/
+bin/
+obj/
